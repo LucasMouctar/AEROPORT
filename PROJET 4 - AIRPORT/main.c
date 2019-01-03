@@ -45,6 +45,7 @@ int main()
             x = random();
             //printf("RANDOM OPERATION :\n");
             // AddAvion(&Avion, &C, &Liste_landing, &Liste_Takeoff, &Liste_Emergency, &Queue_Takeoff, &ListeC, &ListeB, time, x);
+            //JE FAIS UN TEST
 
         }
 
