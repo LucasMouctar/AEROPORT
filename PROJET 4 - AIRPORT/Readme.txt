@@ -11,4 +11,4 @@ If you want to see if all events realized during the running of the code
 are well printed in a file, you have to open the file HISTORIC or you can 
 print it on the interface on our program.
 
-Finally, our program is running on every operation system. 
+Finally, our program is running on every operation system.
