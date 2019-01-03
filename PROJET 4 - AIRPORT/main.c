@@ -44,7 +44,7 @@ int main()
             AddAvion(&Avion, &C, &Liste_landing, &Liste_Takeoff, &Liste_Emergency, &Queue_Takeoff, &ListeC, &ListeB, time, x);
             x = random();
             //printf("RANDOM OPERATION :\n");
-           // AddAvion(&Avion, &C, &Liste_landing, &Liste_Takeoff, &Liste_Emergency, &Queue_Takeoff, &ListeC, &ListeB, time, x);
+            // AddAvion(&Avion, &C, &Liste_landing, &Liste_Takeoff, &Liste_Emergency, &Queue_Takeoff, &ListeC, &ListeB, time, x);
 
         }
 
